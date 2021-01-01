@@ -28,3 +28,9 @@ https://codescene.io/projects/10170/jobs/74690/results
 https://deepsource.io/gh/COTASPAR/CryptoPlanet/
 20. Travis CI for continous integration https://travis-ci.com/getting_started
 21. Open Source Hardware - LightBoard - https://lightboard.info/
+
+# BOOKS
+- [Algebra Driven Design](https://leanpub.com/algebra-driven-design)
+- [Restful API design](https://leanpub.com/restful-api-design)
+- [Learning algorithms through puzzle solving](http://learningalgorithms.tilda.ws/)
+- [Functional design and architecture](https://leanpub.com/functional-design-and-architecture)
